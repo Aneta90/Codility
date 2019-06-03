@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee45b6f2-295b-4294-be37-8192dd94ed86" name="Default Changelist" comment="" />
+    <list default="true" id="ee45b6f2-295b-4294-be37-8192dd94ed86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CountDivTest/CountDivTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
+            <state relative-caret-position="203">
               <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -39,10 +41,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DistinctValuesInArray/DistinctValuesInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DistinctValuesInArrayTest/DistinctValuesInArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DistinctValuesInArray/DistinctValuesInArray">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -56,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="160">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,6 +132,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTripletDescription" />
         <option value="$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DistinctValuesInArray/DistinctValuesInArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DistinctValuesInArrayTest/DistinctValuesInArrayTest.java" />
       </list>
     </option>
   </component>
@@ -160,6 +195,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DistinctValuesInArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProductOfTriplet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,7 +224,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CountDivTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DistinctValuesInArrayTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
@@ -218,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProductOfTripletTest">
+  <component name="RunManager" selected="JUnit.DistinctValuesInArrayTest.productOfTripletTest">
     <configuration name="ProductOfTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProductOfTriplet.ProductOfTriplet" />
       <module name="Codility" />
@@ -247,6 +290,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DistinctValuesInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DistinctValuesInArrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DistinctValuesInArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="DistinctValuesInArrayTest.DistinctValuesInArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistinctValuesInArrayTest.productOfTripletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DistinctValuesInArrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DistinctValuesInArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="DistinctValuesInArrayTest.DistinctValuesInArrayTest" />
+      <option name="METHOD_NAME" value="productOfTripletTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProductOfTripletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codility" />
       <extension name="coverage">
@@ -264,6 +338,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DistinctValuesInArrayTest.productOfTripletTest" />
+        <item itemvalue="JUnit.DistinctValuesInArrayTest" />
         <item itemvalue="JUnit.ProductOfTripletTest" />
         <item itemvalue="Application.ProductOfTriplet" />
         <item itemvalue="JUnit.CountDivTest" />
@@ -280,7 +356,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559559671177</updated>
-      <workItem from="1559559693474" duration="8162000" />
+      <workItem from="1559559693474" duration="10544000" />
     </task>
     <task id="LOCAL-00001" summary="second task added, named ProductOfTriplet">
       <created>1559568604079</created>
@@ -293,24 +369,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CountDivTest - 2019.06.03 at 13h 44m 28s.xml">
-      <configuration name="CountDivTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountDivTest - 2019.06.03 at 13h 44m 46s.xml">
-      <configuration name="CountDivTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountDivTest - 2019.06.03 at 13h 45m 08s.xml">
-      <configuration name="CountDivTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductOfTripletTest - 2019.06.03 at 14h 52m 59s.xml">
-      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductOfTripletTest - 2019.06.03 at 14h 54m 20s.xml">
-      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductOfTripletTest - 2019.06.03 at 14h 57m 59s.xml">
-      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 19m 26s.xml">
       <configuration name="ProductOfTripletTest" configurationId="JUnit" />
     </history-entry>
@@ -323,9 +381,27 @@
     <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 29m 33s.xml">
       <configuration name="ProductOfTripletTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DistinctValuesInArrayTest - 2019.06.03 at 16h 33m 09s.xml">
+      <configuration name="DistinctValuesInArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctValuesInArrayTest - 2019.06.03 at 16h 34m 01s.xml">
+      <configuration name="DistinctValuesInArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctValuesInArrayTest - 2019.06.03 at 16h 36m 18s.xml">
+      <configuration name="DistinctValuesInArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctValuesInArrayTest_productOfTripletTest - 2019.06.03 at 16h 36m 57s.xml">
+      <configuration name="DistinctValuesInArrayTest.productOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctValuesInArrayTest_productOfTripletTest - 2019.06.03 at 16h 37m 15s.xml">
+      <configuration name="DistinctValuesInArrayTest.productOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctValuesInArrayTest_productOfTripletTest - 2019.06.03 at 16h 37m 42s.xml">
+      <configuration name="DistinctValuesInArrayTest.productOfTripletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8162000" />
+    <option name="totallyTimeSpent" value="10544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -338,7 +414,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -390,9 +466,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.jar!/junitparams/Parameters.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CountDivTest/CountDivTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
+        <state relative-caret-position="203">
           <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -400,20 +486,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.jar!/junitparams/Parameters.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DistinctValuesInArray/DistinctValuesInArray">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="160">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DistinctValuesInArray/DistinctValuesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DistinctValuesInArrayTest/DistinctValuesInArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

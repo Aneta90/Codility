@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee45b6f2-295b-4294-be37-8192dd94ed86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee45b6f2-295b-4294-be37-8192dd94ed86" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -356,7 +354,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559559671177</updated>
-      <workItem from="1559559693474" duration="10544000" />
+      <workItem from="1559559693474" duration="11137000" />
     </task>
     <task id="LOCAL-00001" summary="second task added, named ProductOfTriplet">
       <created>1559568604079</created>
@@ -365,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559568604079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="third task added, named DistinctValuesInArray">
+      <created>1559572711834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559572711834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -401,7 +406,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10544000" />
+    <option name="totallyTimeSpent" value="11137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -439,7 +444,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second task added, named ProductOfTriplet" />
-    <option name="LAST_COMMIT_MESSAGE" value="second task added, named ProductOfTriplet" />
+    <MESSAGE value="third task added, named DistinctValuesInArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="third task added, named DistinctValuesInArray" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

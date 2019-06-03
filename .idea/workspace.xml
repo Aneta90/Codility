@@ -28,11 +28,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CountDivTest/CountDivTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
               <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="247" selection-start-line="13" selection-start-column="247" selection-end-line="13" selection-end-column="247" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTripletDescription">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="37" column="121" selection-start-line="37" selection-start-column="121" selection-end-line="37" selection-end-column="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,6 +101,9 @@
         <option value="$PROJECT_DIR$/src/main/java/CountDiv/CountDivDescription" />
         <option value="$PROJECT_DIR$/src/main/java/CountDiv/CountDiv.java" />
         <option value="$PROJECT_DIR$/src/test/java/CountDivTest/CountDivTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTripletDescription" />
+        <option value="$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java" />
       </list>
     </option>
   </component>
@@ -127,6 +163,14 @@
               <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProductOfTriplet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -143,6 +187,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="CountDivTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProductOfTripletTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +223,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ProductOfTripletTest">
+    <configuration name="ProductOfTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductOfTriplet.ProductOfTriplet" />
+      <module name="Codility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProductOfTriplet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountDivTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codility" />
       <extension name="coverage">
@@ -187,8 +252,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductOfTripletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProductOfTripletTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProductOfTripletTest" />
+      <option name="MAIN_CLASS_NAME" value="ProductOfTripletTest.ProductOfTripletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProductOfTripletTest" />
+        <item itemvalue="Application.ProductOfTriplet" />
         <item itemvalue="JUnit.CountDivTest" />
       </list>
     </recent_temporary>
@@ -203,7 +285,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559559671177</updated>
-      <workItem from="1559559693474" duration="2529000" />
+      <workItem from="1559559693474" duration="7846000" />
     </task>
     <servers />
   </component>
@@ -220,27 +302,43 @@
     <history-entry file="CountDivTest - 2019.06.03 at 13h 45m 08s.xml">
       <configuration name="CountDivTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 14h 52m 59s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 14h 54m 20s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 14h 57m 59s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 19m 26s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 20m 05s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2529000" />
+    <option name="totallyTimeSpent" value="7846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,10 +373,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTripletDescription">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="37" column="121" selection-start-line="37" selection-start-column="121" selection-end-line="37" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CountDivTest/CountDivTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.jar!/junitparams/Parameters.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="247" selection-start-line="13" selection-start-column="247" selection-end-line="13" selection-end-column="247" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

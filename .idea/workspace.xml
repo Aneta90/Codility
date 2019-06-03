@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee45b6f2-295b-4294-be37-8192dd94ed86" name="Default Changelist" comment="first">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee45b6f2-295b-4294-be37-8192dd94ed86" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,14 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="247" selection-start-line="13" selection-start-column="247" selection-end-line="13" selection-end-column="247" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -61,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="320">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/main/java/CountDiv/CountDiv.java" />
         <option value="$PROJECT_DIR$/src/test/java/CountDivTest/CountDivTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTripletDescription" />
-        <option value="$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java" />
       </list>
     </option>
   </component>
@@ -285,14 +280,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559559671177</updated>
-      <workItem from="1559559693474" duration="7846000" />
+      <workItem from="1559559693474" duration="8162000" />
     </task>
+    <task id="LOCAL-00001" summary="second task added, named ProductOfTriplet">
+      <created>1559568604079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559568604079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CountDivTest - 2019.06.03 at 13h 42m 58s.xml">
-      <configuration name="CountDivTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CountDivTest - 2019.06.03 at 13h 44m 28s.xml">
       <configuration name="CountDivTest" configurationId="JUnit" />
     </history-entry>
@@ -317,9 +317,15 @@
     <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 20m 05s.xml">
       <configuration name="ProductOfTripletTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 28m 47s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOfTripletTest - 2019.06.03 at 15h 29m 33s.xml">
+      <configuration name="ProductOfTripletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7846000" />
+    <option name="totallyTimeSpent" value="8162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -328,7 +334,7 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -338,7 +344,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,6 +360,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second task added, named ProductOfTriplet" />
+    <option name="LAST_COMMIT_MESSAGE" value="second task added, named ProductOfTriplet" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -393,20 +403,17 @@
     <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.4/JUnitParams-1.0.4.jar!/junitparams/Parameters.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProductOfTriplet/ProductOfTriplet.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProductOfTripletTest/ProductOfTripletTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="247" selection-start-line="13" selection-start-column="247" selection-end-line="13" selection-end-column="247" />
+        <state relative-caret-position="320">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
